@@ -6,7 +6,7 @@ This is a shell written in C. It is based on the Thompson Shell.
 Installation wrench
 Clone the below repository and compile the files into an executable using the GCC compiler.
 https://github.com/MakenaMakena/simple_shell
-##Environment
+
 Our shell was built and tested on Linux Mint 20.3 Cinnamon
 contributors
 Victor Mwangi
